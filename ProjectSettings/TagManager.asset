@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Layer1
+  - Layer2
+  - Layer3
+  - Layer4
+  - Layer5
+  - Layer6
+  - Node
+  - Center
+  - reproduce
+  - Top
+  - Bottom
+  - Upper end
+  - Lower end
+  - Sprite
+  - left
+  - right
+  - Upper middle end
+  - Middle end
+  - Lower middle end
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
